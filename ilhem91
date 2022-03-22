@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+    <style>
+
+        h1{
+            color:brown;
+            text-align: center;
+            font-family:'Courier New', Courier, monospace;
+            background-color: bisque;}
+
+        p{
+            display:flex;
+            position: absolute;
+            color:rgb(0, 0, 0);
+            top: 60px;
+            margin-left: 300px;
+            padding-right:10px;}
+
+        li{
+            display:flex;
+            list-style: none;
+            color:rgb(122, 128, 39);
+            margin-top: 4px;
+            font-size: 20px;}
+    
+        li>ul {
+        display:none;
+        position:absolute;}
+
+        
+        li:hover>ul{
+            display:block;
+            position:absolute;
+            border-left:1px solid rgb(117, 104, 104);
+            margin-left: 200px;
+            background-color:rgb(255, 255, 255);
+            list-style:none;}
+
+        a:hover{
+            background-color:bisque;
+            color:brown;}  
+    
+    
+   
+       
+    </style>
+
+<body>
+<!--Mon titre-->
+    <h1>PROGRAMME LDD1 SCIENCES DE LA VIE ET INFORMATIQUE</h1>
+
+<!--Mon texte-->
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel magnam ratione quasi. Expedita, magnam exercitationem dolores ducimus pariatur porro deleniti eum explicabo suscipit minima sint hic natus quae at inventore debitis velit reprehenderit, consequatur error reiciendis corrupti tempore maxime. Laudantium reprehenderit facere odio blanditiis culpa amet minus porro pariatur iusto totam. Molestiae sit quisquam dolore necessitatibus sint, numquam, adipisci vitae suscipit velit sapiente soluta repellendus eius aperiam amet vero placeat magnam quis odit officia. Commodi dolore, expedita at dolorum adipisci tempora doloremque nisi ipsa excepturi repellat ratione totam deserunt hic earum delectus id ex rem vel quas quam. At necessitatibus aspernatur recusandae dolorum provident, aperiam assumenda quam non labore et officia cupiditate totam? Magni debitis ea explicabo, nam dolorum velit quidem illum perferendis minima maiores veniam! Architecto in porro unde eaque inventore, tempore doloremque enim, dolor eveniet debitis, aliquid odio distinctio. Inventore ipsum delectus a dolorum distinctio natus quo ad, cupiditate quae dicta reiciendis reprehenderit explicabo dolorem modi iusto! Excepturi rerum, magni adipisci ut numquam labore corrupti sed vitae debitis. Optio voluptates quod veniam atque hic vero voluptas est assumenda, numquam quidem libero nulla, minus voluptatibus sequi eveniet a necessitatibus, asperiores laudantium? Maiores exercitationem aliquid quibusdam error omnis suscipit fuga, iusto totam laborum. Culpa unde cum enim optio, illo nam. Accusamus asperiores minima ut. Modi vero quaerat obcaecati maxime, tempore deleniti recusandae dicta dolorum voluptates quibusdam fugiat excepturi delectus itaque distinctio suscipit necessitatibus iure sit, totam error nisi cumque repudiandae. Tempora dolor, error debitis, autem itaque aut modi temporibus eum non veniam eius repellendus asperiores assumenda consequatur exercitationem sit natus est illum laboriosam adipisci eaque corrupti harum accusamus. Ex id nisi voluptatem saepe dolorem ipsa asperiores rerum veniam facilis expedita, natus mollitia tenetur ad placeat aperiam fugit unde doloribus culpa, eum cum! Quibusdam aperiam dolor nemo doloribus excepturi nulla, eum omnis non laborum esse consequatur id assumenda itaque est aut reprehenderit laboriosam? Sed deleniti blanditiis rem doloribus, mollitia facilis accusamus nostrum earum sint delectus quisquam, maxime quaerat sunt molestias nemo aut quasi ullam provident ipsam. Ipsum porro nostrum maiores quia, laudantium eaque perspiciatis quasi a optio recusandae eveniet repellat ut cupiditate, harum magni quod! Beatae libero aut quasi, nisi ipsam magnam quidem commodi harum culpa exercitationem impedit distinctio omnis illum voluptatum ut debitis aspernatur blanditiis, qui labore. Tempora sed illo ea odio esse, blanditiis ad voluptas culpa dignissimos? Quidem amet, quo veniam error ratione laborum alias porro debitis sit, quasi in hic. Voluptas laudantium aperiam at impedit ducimus error hic voluptatum nesciunt quo. Quos enim neque eaque! Perspiciatis et exercitationem maxime iusto nisi quam porro corporis nobis, reiciendis dignissimos nostrum, distinctio laboriosam ducimus ipsum, officia blanditiis voluptatem soluta voluptates quidem aliquid adipisci vero magnam ipsam ut? Incidunt inventore minima autem recusandae, tempore ullam eos voluptas voluptatum odit accusamus fugit porro cumque fugiat voluptate dolorum corporis repellat natus dolorem eum quam aut nulla! Quaerat, consequatur corporis. Assumenda similique cupiditate delectus pariatur ullam rem repellat atque ex ipsa alias voluptate exercitationem id et iure consectetur soluta fugiat odit voluptas accusantium iste, error amet est, maiores eveniet! Eveniet id dolorum illum error ratione, labore aut qui nulla quae distinctio impedit necessitatibus consectetur voluptatum libero provident aspernatur et vero nobis tempora laudantium? Ut quas eaque fugiat expedita quos soluta itaque sit dolorum. Architecto minus nostrum, adipisci velit assumenda reprehenderit illum officia corporis ex quisquam nemo blanditiis earum! Iusto ex perspiciatis ducimus dolores quod rerum maxime sapiente voluptatibus consectetur. Quas corporis ducimus dolorem autem earum esse aperiam molestias, dicta iusto reiciendis officia culpa at facere, alias tenetur, ipsam natus nostrum eum soluta magnam modi unde ratione a ullam. Facilis aliquid, reprehenderit praesentium maiores maxime, iusto odit vero laborum, aut odio expedita illum veritatis pariatur? Nulla architecto incidunt laudantium exercitationem animi quia reiciendis facere, ex non. Perferendis a vitae odio ipsam sed odit tempora fugit sit saepe, quaerat nostrum iure nam molestias quidem aperiam totam dolorum. Laudantium id porro reprehenderit esse hic, vitae numquam ratione sapiente cum consectetur vel eum atque aut nesciunt velit neque perferendis tempora eaque, perspiciatis repellendus eveniet error dignissimos? Quisquam nobis tempora dolorem saepe voluptas debitis nesciunt consectetur suscipit quas, tempore obcaecati eius aliquid voluptatem dignissimos, voluptate accusamus, ipsa asperiores cum illo explicabo impedit. Labore, officia, minus cum praesentium, accusamus voluptatum pariatur cupiditate magni accusantium quae necessitatibus minima ut in nobis? Voluptatem, animi consectetur? Rem repellendus reiciendis quasi, tempora deleniti dolorum ratione qui similique, hic dignissimos corrupti repudiandae nesciunt unde dolore odio, mollitia tempore? Numquam nulla nesciunt atque eaque soluta molestiae sequi eligendi quo iure est laborum labore delectus possimus veritatis, cupiditate, alias odit repudiandae illum? Illo amet debitis, odio odit vitae est repellendus inventore quas dolores iusto eius excepturi nemo quis harum? Suscipit cum optio laborum nostrum, hic qui voluptas ipsum placeat libero nesciunt pariatur, repellat nam aperiam eligendi sed quidem fugit necessitatibus? Ea esse possimus quod cumque accusantium doloribus est officiis voluptate, error voluptas doloremque beatae quo sint. Quaerat, officiis placeat! Obcaecati in sint omnis repellendus voluptatibus quam quos accusamus fuga iusto natus at voluptate officia numquam consequuntur, eligendi iure vero esse ducimus. Voluptate deleniti praesentium reiciendis impedit earum minima repellat mollitia nihil quos error quo consequuntur doloremque nobis nisi possimus voluptas incidunt dolore, corporis, dolor dolorem quas! Nemo rem perspiciatis iure, eaque omnis labore. Quam nihil nesciunt minima sapiente quas esse hic ullam doloribus impedit exercitationem odit, suscipit nisi quod tempore iste veritatis explicabo, illo enim cum facere. Nemo ea ratione iste harum dolorum repudiandae earum tempora fuga dicta voluptatem animi sint ducimus, modi culpa doloribus. Qui cumque corrupti aliquam laborum alias sed exercitationem hic voluptatum quibusdam dolorum aperiam non, minima omnis culpa numquam voluptates natus facilis voluptate suscipit earum dolore atque. Quia, molestiae ab quasi similique modi nesciunt, explicabo est laboriosam maiores cupiditate itaque. Suscipit cumque harum voluptatem vero minima nemo id tempore consectetur odio odit sunt mollitia, hic repellat iusto ipsam aliquam, molestiae quis natus? Sint provident maxime ut deserunt, ex nesciunt illum ab in iusto numquam reiciendis totam animi nisi corrupti eaque facilis exercitationem voluptatibus voluptatem quas, sunt quis quia quos. Est sint dicta quam odio.</p>
+
+    
+<!--Mon menu-->
+<ul>
+    <li><a>Bloc biologie</a>
+        <ul>
+            <li><a>Biologie</a></li>
+            <li><a>Chimie-biologie</a></li>
+            <li><a>Introduction à la bio-informatique</a></li>
+        </ul>
+    </li>
+
+    <li><a>Bloc informatique </a>
+        <ul>
+            <li><a>Informatique générale</a></li>
+            <li><a>Programmation impérative</a></li>
+            <li><a>Algorithmique et programmation en C</a></li>
+            <li><a>Web statique</a></li>
+        </ul>
+    </li>
+
+    <li><a>Bloc disciplines d'appui</a>
+        <ul>
+            <li><a>Arnalyse réelle</a></li>
+            <li><a>Programmation Python</a></li>
+            <li><a>Algèbre linéaire et géométrie</a></li>
+            <li><a>Physique générale</a></li>
+        </ul>
+    </li>
+
+    <li><a>Bloc transverse</a>
+        <ul>
+            <li><a>SPOC</a></li>
+            <li><a>Anglais</a></li>
+            <li><a>PPEI</a></li>
+            <li><a>Méthodologie</a></li>
+            <li><a>Compétence au numérique PIX</a></li>
+            <li><a>UEL</a></li>
+        </ul>
+    </li>
+
+    <li><a>Bloc complémentaire</a>
+        <ul>
+            <li><a>Structure de la matière</a></li>
+            <li><a>Chimie organique</a></li>
+            <li><a>Chimie du solide</a></li>
+            <li><a>Démarche scientifique (projet)</a></li>
+        </ul>
+    </li>
+</ul>
+
+
+
+</body>
+
+
+</html>
